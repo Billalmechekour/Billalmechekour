@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Billal%20Mechekour&fontSize=55&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20UI%2FUX%20Designer%20%7C%20Big%20Data%20Explorer&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Billal%20Mechekour&fontSize=55&fontAlignY=35&desc=Étudiant%20en%20informatique%20%7C%20Développeur%20Full-Stack%20%7C%20Designer%20UI%2FUX&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=Étudiant+en+Informatique+%F0%9F%8E%93;Full-Stack+Developer+%7C+Next.js+%7C+Node.js;UI%2FUX+Designer+%7C+Figma+%7C+Adobe;Big+Data+Explorer+%7C+Hadoop+%7C+Hive;Always+building+something+cool+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -34,6 +34,7 @@ passion  : Créer des interfaces belles + des systèmes qui scalent
 - 🛠️ Passionné par le **développement Full-Stack** et le **design UI/UX**
 - 📊 Curieux des enjeux **Big Data** (Hadoop, Hive)
 - 🎨 Designer créatif : **Figma, Adobe Photoshop, Illustrator**
+- 🌐 Portfolio touristique de Béjaïa : [bejaiatourguide.netlify.app](https://bejaiatourguide.netlify.app)
 - ♟️ Bac Mathématiques — passionné de logique et d'algorithmes
 
 ---
@@ -130,6 +131,11 @@ Application web de gestion d'athlètes — suivi des **performances**, organisat
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 🔒 *Repo privé* &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square&logo=vercel)](https://coach-sport-app.vercel.app/)
+
+</td>
+</tr>
+</table>
+
 ### 🖥️ Systèmes & Bas Niveau
 
 <table>
