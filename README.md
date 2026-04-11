@@ -129,12 +129,7 @@ Application web de gestion d'athlètes — suivi des **performances**, organisat
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-🔒 *Repo privé*
-
-</td>
-</tr>
-</table>
-
+🔒 *Repo privé* &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square&logo=vercel)](https://coach-sport-app.vercel.app/)
 ### 🖥️ Systèmes & Bas Niveau
 
 <table>
