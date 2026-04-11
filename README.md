@@ -34,7 +34,6 @@ passion  : Créer des interfaces belles + des systèmes qui scalent
 - 🛠️ Passionné par le **développement Full-Stack** et le **design UI/UX**
 - 📊 Curieux des enjeux **Big Data** (Hadoop, Hive)
 - 🎨 Designer créatif : **Figma, Adobe Photoshop, Illustrator**
-- 🌐 Portfolio touristique de Béjaïa : [bejaiatourguide.netlify.app](https://bejaiatourguide.netlify.app)
 - ♟️ Bac Mathématiques — passionné de logique et d'algorithmes
 
 ---
@@ -81,42 +80,114 @@ passion  : Créer des interfaces belles + des systèmes qui scalent
 
 ---
 
-## `$ git log --projects`
+## `$ git log --all --projects`
+
+### 🌐 Web & Full-Stack
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛒 MegaShop — E-commerce (2024-2025)
-Application e-commerce complète en équipe, **Next.js + Agile DSDM** (Master 1 - module AIE)
+**🛒 mega-shop**
 
-[![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=for-the-badge&logo=vercel)](https://project-megashop.vercel.app)
+Application e-commerce complète avec création de boutique, vente/achat de produits et un **chatbot intelligent** intégré. Développé en équipe avec **Next.js + Agile DSDM**.
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/mega-shop) [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square&logo=vercel)](https://project-megashop.vercel.app)
 
 </td>
 <td width="50%">
 
-### 🏥 Shifa — Gestion Hospitalière (2023-2024)
-App web de gestion des rendez-vous hospitaliers, **HTML/CSS/JS + Agile DSDM** (Licence 3)
+**🏥 Shifa**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Billalmechekour/Shifa)
+Application web de gestion des rendez-vous médicaux — réservation en ligne pour les patients et gestion des plannings hospitaliers. **Agile DSDM**.
+
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/Shifa)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎮 Algo Game — Jeu Multijoueur
-Jeu algorithmique multijoueur en temps réel avec **React**, défis algo entre joueurs
+**🎮 algo-game**
 
-[![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=for-the-badge&logo=vercel)](https://algo-game-five.vercel.app/)
+Jeu d'algorithmique en ligne avec défis chronométrés, système de score dynamique basé sur la **rapidité et la précision**. Multijoueur en temps réel avec **React**.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/algo-game) [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square&logo=vercel)](https://algo-game-five.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🌄 Béjaïa Tour Guide — Tourisme
-Guide touristique interactif de la wilaya de Béjaïa — UI/UX complète + dev web
+**🏋️ coach-sport-app** *(privé)*
 
-[![Live](https://img.shields.io/badge/Live-Demo-059669?style=for-the-badge&logo=netlify)](https://bejaiatourguide.netlify.app)
+Application web de gestion d'athlètes — suivi des **performances**, organisation des entraînements et tableau de bord coach.
+
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+🔒 *Repo privé*
+
+</td>
+</tr>
+</table>
+
+### 🖥️ Systèmes & Bas Niveau
+
+<table>
+<tr>
+<td width="50%">
+
+**📡 Protocole Client-Serveur**
+
+Conception et implémentation d'un protocole de communication entre un serveur et **plusieurs clients simultanés** — gestion des accès concurrents, fiabilité et traitement des erreurs.
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-License-green?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/Conception-d-un-protocole-de-communication-client-serveur)
+
+</td>
+<td width="50%">
+
+**🐚 Mini-Shell Unix**
+
+Shell Unix simplifié en C avec exécution de commandes, **pipes**, redirections, variables d'environnement et built-ins (`cd`, `pwd`, `exit`…).
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-License-green?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/Mini-Shell-Unix-en-C)
+
+</td>
+</tr>
+</table>
+
+### 🧠 Compilation & Algorithmique
+
+<table>
+<tr>
+<td width="50%">
+
+**⚙️ Analyseur Syntaxique Python**
+
+Implémentation de parseurs **LR/LL** complets : LR(0), SLR, CLR, LALR, LL(1), LR(k) — détection de conflits et tests syntaxiques.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-License-green?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/D-veloppement-d-un-Analyseur-Syntaxique-en-Python)
+
+</td>
+<td width="50%">
+
+**🌄 Béjaïa Tour Guide** *(personnel)*
+
+Guide touristique interactif de la wilaya de Béjaïa — UI/UX complète pour promouvoir le tourisme local.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=netlify)](https://bejaiatourguide.netlify.app)
 
 </td>
 </tr>
