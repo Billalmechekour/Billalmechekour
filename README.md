@@ -248,7 +248,6 @@ Guide touristique interactif de la wilaya de Béjaïa — UI/UX complète pour p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Billal_Mechekour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/billal-mechekour)
 [![GitHub](https://img.shields.io/badge/GitHub-Billalmechekour-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Billalmechekour)
 [![Gmail](https://img.shields.io/badge/Gmail-billalmechekour@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billalmechekour@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Béjaïa_Tour_Guide-059669?style=for-the-badge&logo=netlify&logoColor=white)](https://bejaiatourguide.netlify.app)
 
 </div>
 
