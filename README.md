@@ -109,8 +109,6 @@ Application web de gestion des rendez-vous médicaux — réservation en ligne p
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/Shifa)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🌄 Béjaïa Tour Guide**
@@ -124,9 +122,6 @@ Guide touristique gratuit et accessible pour découvrir la ville de Béjaïa —
 </td>
 <td width="50%"></td>
 </tr>
-</table>
-<tr>
-<td width="50%">
 
 **🎮 algo-game**
 
