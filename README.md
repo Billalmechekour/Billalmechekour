@@ -113,6 +113,21 @@ Application web de gestion des rendez-vous médicaux — réservation en ligne p
 <tr>
 <td width="50%">
 
+**🌄 Béjaïa Tour Guide**
+
+Guide touristique gratuit et accessible pour découvrir la ville de Béjaïa — conçu comme service pour les voyageurs et amoureux de la nature.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MIT](https://img.shields.io/badge/MIT-License-green?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/bejaia-tour-guide) [![Live](https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=netlify)](https://bejaiatourguide.netlify.app)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+<tr>
+<td width="50%">
+
 **🎮 algo-game**
 
 Jeu d'algorithmique en ligne avec défis chronométrés, système de score dynamique basé sur la **rapidité et la précision**. Multijoueur en temps réel avec **React**.
