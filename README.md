@@ -55,6 +55,7 @@ passion  : Créer des interfaces belles + des systèmes qui scalent
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,6 +65,7 @@ passion  : Créer des interfaces belles + des systèmes qui scalent
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -109,19 +111,9 @@ Application web de gestion des rendez-vous médicaux — réservation en ligne p
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/Shifa)
 
 </td>
-<td width="50%">
-
-**🌄 Béjaïa Tour Guide**
-
-Guide touristique gratuit et accessible pour découvrir la ville de Béjaïa — conçu comme service pour les voyageurs et amoureux de la nature.
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MIT](https://img.shields.io/badge/MIT-License-green?style=flat-square)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/bejaia-tour-guide) [![Live](https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=netlify)](https://bejaiatourguide.netlify.app)
-
-</td>
-<td width="50%"></td>
 </tr>
+<tr>
+<td width="50%">
 
 **🎮 algo-game**
 
@@ -143,6 +135,20 @@ Application web de gestion d'athlètes — suivi des **performances**, organisat
 🔒 *Repo privé* &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square&logo=vercel)](https://coach-sport-app.vercel.app/)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+**🌄 Béjaïa Tour Guide**
+
+Guide touristique gratuit et accessible pour découvrir la ville de Béjaïa — conçu comme service pour les voyageurs et amoureux de la nature. Projet personnel avec **Vue 3 + Firebase**.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MIT](https://img.shields.io/badge/MIT-License-green?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/bejaia-tour-guide) [![Live](https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=netlify)](https://bejaiatourguide.netlify.app)
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -190,17 +196,7 @@ Implémentation de parseurs **LR/LL** complets : LR(0), SLR, CLR, LALR, LL(1), L
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Billalmechekour/D-veloppement-d-un-Analyseur-Syntaxique-en-Python)
 
 </td>
-<td width="50%">
-
-**🌄 Béjaïa Tour Guide** *(personnel)*
-
-Guide touristique interactif de la wilaya de Béjaïa — UI/UX complète pour promouvoir le tourisme local.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-Demo-059669?style=flat-square&logo=netlify)](https://bejaiatourguide.netlify.app)
-
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
